@@ -1,5 +1,7 @@
 # MyBudget
 
+it is a budget tracker application. 
+
 install MondoDB
 run `npm install --y`
 run `npm install mongoose`
