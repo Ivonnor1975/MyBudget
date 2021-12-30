@@ -1,5 +1,6 @@
 # MyBudget
 
+<<<<<<< HEAD
 ## Description
 it is a budget tracker application. An avid traveler will be able to track withdrawals and deposits with or without a data/internet connection, so the account balance is accurate when   traveling.
 
@@ -28,3 +29,13 @@ Link: https://opensource.org/licenses/MIT
 This product can be tested through the demo link.
 
 https://enigmatic-wildwood-16315.herokuapp.com/
+=======
+It is a budget tracker application. An avid traveler will be able to track withdrawals and deposits with or without a data/internet connection, so the account balance is accurate when   traveling.
+
+install MondoDB
+run `npm install --y`
+run `npm install mongoose`
+run `npm install express`
+run `npm install morgan`
+run `install  npm install compression`
+>>>>>>> 8837106e6bc76b7bde13c8622c4ec5bc0f8def70
