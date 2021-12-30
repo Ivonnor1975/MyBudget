@@ -18,7 +18,8 @@ This application uses node.js, express, mongoose, and morgan  modules. Make sure
 ## Usage
 This project is a budget tracker. Without an internet connection WHEN the user inputs an expense or deposit THEN they will receive a notification that they have added an expense or deposit WHEN the user reestablishes an internet connection THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated.
 
-![image](https://user-images.githubusercontent.com/88918693/147765060-280aefee-c4d0-4ade-9433-6f161d54c3d6.png)
+![image](https://user-images.githubusercontent.com/88918693/147765157-6e041c32-941b-485a-9648-ba1fb6afcad9.png)
+
 
 ## License
 This project is licensed under the MIT
